@@ -1,3 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/0017910770_0"
 #EXTINF:0,NightrideFM
 https://stream.nightride.fm/nightride.m4a
