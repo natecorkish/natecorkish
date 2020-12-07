@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0,Kavinsky - Nightcall 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1607323694/ei/znvNX_6AFpGuxN8PqZqiiAc/ip/2a02%3Ac7f%3A3876%3A1500%3A3864%3A7753%3A75db%3Ac9b2/id/f834950dcc3a896f/source/youtube/requiressl/yes/playback_host/r5---sn-cn3tc-cime.googlevideo.com/mh/JG/mm/31%2C29/mn/sn-cn3tc-cime%2Csn-aigzrn7l/ms/au%2Crdu/mv/m/mvi/5/pl/39/tx/23880663/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/maxh/1080/tts_caps/1/maudio/1/initcwndbps/1503750/vprv/1/go/1/mt/1607301632/fvip/5/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Ctts_caps%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeoh_aucidqakLBc_69cAbC6aKlXVFkiHU-b5qfIMKPICIQCYWf7C1LbCPaC43AXMlSbzRaUeYA_D6d99TH32C4a23g%3D%3D/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AG3C_xAwRQIgVV0vgClazd7jlMTnHOlR9gjGZQ7sevHDYY2wtOaO2UQCIQCPGdYt3yLYgJp3970rGXLMizmVxD3OSJzl9Gc0WJke6A%3D%3D/file/index.m3u8
+#EXTINF:0,Synthwave - Russia
+http://air.radiorecord.ru:805/synth_aac
+#EXTINF:0,SynthwaveFM
+https://tunein.com/radio/Synth-FM-s289908/
