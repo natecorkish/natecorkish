@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on: Finescoop (http://finescoop.com)
 - 🌱 I’m currently learning: Svelte
-- 🤔 I’m looking for help with: Gamerstrail
-- ⚡ Languages: C#, Python, PHP, Javascript, Css, Html and a little bit on Java
+- 🤔 I’m looking for help with: Gamerstrail/Lessbuild/Finescoop
+- ⚡ Languages: C#, Python, PHP, Javascript, CSS and HTML
 -->
 
 ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logoColor=white&color=2bbc8a)
@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logoColor=white&color=2bbc8a)
