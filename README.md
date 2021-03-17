@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1235624169192198144/1583794498/1500x500">
+<img src="https://i.imgur.com/eiskMvR.jpg">
 <p>
   <a href="https://twitter.com/natecorkish">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/natecorkish?style=for-the-badge">
