@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: Svelte
 - 🤔 I’m looking for help with: Gamerstrail/Lessbuild/Finescoop
 - ⚡ Languages: C#, Python, PHP, Javascript, CSS and HTML
--->
+
 
 ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jetbrains-informational?style=flat&logoColor=white&color=2bbc8a)
