@@ -1,16 +1,15 @@
 <img src="https://i.imgur.com/eiskMvR.jpg">
-<p>
-  <a href="https://twitter.com/natecorkish">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/natecorkish?style=for-the-badge">
-  </a>
-</p>
-
 
 - 🔭 I’m currently working on: Finescoop (http://finescoop.com)
 - 🌱 I’m currently learning: Svelte
 - 🤔 I’m looking for help with: Gamerstrail/Lessbuild/Finescoop
 - ⚡ Languages: C#, Python, PHP, Javascript, CSS and HTML
 
+<p>
+  <a href="https://twitter.com/natecorkish">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/natecorkish?style=for-the-badge">
+  </a>
+</p>
 
 ![](https://img.shields.io/badge/OS-OSX-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jetbrains-informational?style=flat&logoColor=white&color=2bbc8a)
