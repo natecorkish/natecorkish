@@ -5,6 +5,8 @@
 - 🤔 I’m looking for help with: Gamerstrail/Lessbuild/Finescoop
 - ⚡ Languages: C#, Python, PHP, Javascript, CSS and HTML
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=natecorkish&show_icons=true)
+
 <p>
   <a href="https://twitter.com/natecorkish">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/natecorkish?style=for-the-badge">
