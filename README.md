@@ -1,11 +1,9 @@
-<img src="https://i.imgur.com/eiskMvR.jpg">
+![Github stats](https://github-readme-stats.vercel.app/api?username=natecorkish&show_icons=true)
 
 - 🔭 I’m currently working on: Finescoop (http://finescoop.com)
 - 🌱 I’m currently learning: Svelte
 - 🤔 I’m looking for help with: Gamerstrail/Lessbuild/Finescoop
 - ⚡ Languages: C#, Python, PHP, Javascript, CSS and HTML
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=natecorkish&show_icons=true)
 
 <p>
   <a href="https://twitter.com/natecorkish">
