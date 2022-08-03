@@ -1,9 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=natecorkish&show_icons=true)
 
-- 🔭 I’m currently working on: Finescoop (http://finescoop.com)
-- 🌱 I’m currently learning: Svelte
-- 🤔 I’m looking for help with: Gamerstrail/Lessbuild/Finescoop
-- ⚡ Languages: C#, Python, PHP, Javascript, CSS and HTML
+- 🔭 I’m currently working on: Somecv (http://somecv.com) and Lessbuild (http://lessbuild.com) 
+- ⚡ Languages: PHP, Javascript, CSS and HTML
 
 <p>
   <a href="https://twitter.com/natecorkish">
@@ -16,13 +14,10 @@
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logoColor=white&color=2bbc8a)
 
